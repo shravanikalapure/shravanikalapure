@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Shravani%20Kalapure&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CE+Student;AI%2FML+%2B+Full+Stack+Engineer;Building+Scalable+Web+%26+AI+Systems;Open+to+Internships+%2F+Jobs+%2F+Freelance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+CE+Student;AI%2FML+%2B+Full+Stack+Engineer;Building+Scalable+Web+%26+AI+Systems;Open+to+Internships+%2F+Jobs+%2F+Freelance" alt="Typing SVG" />
 
 <br/>
 
@@ -220,7 +220,7 @@ Delivered production deployment and hosting support for two live client websites
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shravanikalapure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8a2be2&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanikalapure&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8a2be2&currStreakLabel=a855f7" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=shravanikalapure&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8a2be2&currStreakLabel=a855f7" width="48%"/>
 
 <br/>
 
