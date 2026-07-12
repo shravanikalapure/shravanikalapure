@@ -219,12 +219,7 @@ Delivered production deployment and hosting support for two live client websites
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shravanikalapure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8a2be2&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=shravanikalapure&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8a2be2&currStreakLabel=a855f7" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanikalapure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=shravanikalapure&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8a2be2&currStreakLabel=a855f7" width="60%"/>
 
 </div>
 
