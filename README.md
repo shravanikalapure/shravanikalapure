@@ -13,6 +13,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravanikalapure/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6a0dad?style=for-the-badge&logo=vercel&logoColor=white)](https://shravanikalapureportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalapureshravani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4b0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shravanikalapure)
 
