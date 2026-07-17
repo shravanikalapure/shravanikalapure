@@ -179,7 +179,7 @@ Delivered production deployment and hosting support for two live client websites
 |---|---|
 | 🪪 **Copyright Granted (2025)** | Crop Disease Detection using CNNs — 90%+ accuracy in plant disease classification |
 | 🎤 **PR Head** | PCCOE ACM Student Chapter |
-| 🎓 **ACM Summer School 2024** | Kalasalingam Academy of Research and Education, Madurai |
+| 🎓 **ACM Summer School 2025** | Kalasalingam Academy of Research and Education, Madurai |
 
 </div>
 
