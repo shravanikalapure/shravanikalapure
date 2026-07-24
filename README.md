@@ -225,15 +225,6 @@ Delivered production deployment and hosting support for two live client websites
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shravanikalapure&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
