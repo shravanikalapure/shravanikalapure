@@ -284,7 +284,7 @@ Open To:
 
 <div align="center">
 
-*"Engineering isn't just about writing code — it's about building systems people can rely on."*
+*"Think Code Build Repeat"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=120&section=footer" width="100%"/>
 
