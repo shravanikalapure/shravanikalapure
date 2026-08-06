@@ -35,7 +35,7 @@
 Name: Shravani Ranjeet Kalapure
 Role: Final-Year B.Tech Computer Engineering Student
 Institute: Pimpri Chinchwad College of Engineering (PCCOE)
-Specialization: Generative AI (Minor) | Full Stack Development
+Specialization: Generative AI (Minor) 
 Focus: AI/ML systems, scalable full-stack applications, product engineering
 ```
 
